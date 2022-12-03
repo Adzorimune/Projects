@@ -77,6 +77,7 @@ namespace Disfunctional_TicTacToe
 			{
 				var button = buttons[random.Next(buttons.Count)];
 				buttons.Remove(button);
+;
 				AITimer.Stop();
 
 				button.Text = Player.O.ToString();

@@ -1,0 +1,17 @@
+C:\Projects\Disfunctional TicTacToe\Disfunctional TicTacToe\bin\Debug\net6.0-windows\Disfunctional TicTacToe.exe
+C:\Projects\Disfunctional TicTacToe\Disfunctional TicTacToe\bin\Debug\net6.0-windows\Disfunctional TicTacToe.deps.json
+C:\Projects\Disfunctional TicTacToe\Disfunctional TicTacToe\bin\Debug\net6.0-windows\Disfunctional TicTacToe.runtimeconfig.json
+C:\Projects\Disfunctional TicTacToe\Disfunctional TicTacToe\bin\Debug\net6.0-windows\Disfunctional TicTacToe.dll
+C:\Projects\Disfunctional TicTacToe\Disfunctional TicTacToe\bin\Debug\net6.0-windows\Disfunctional TicTacToe.pdb
+C:\Projects\Disfunctional TicTacToe\Disfunctional TicTacToe\obj\Debug\net6.0-windows\Disfunctional TicTacToe.csproj.AssemblyReference.cache
+C:\Projects\Disfunctional TicTacToe\Disfunctional TicTacToe\obj\Debug\net6.0-windows\Disfunctional_TicTacToe.DTTT.resources
+C:\Projects\Disfunctional TicTacToe\Disfunctional TicTacToe\obj\Debug\net6.0-windows\Disfunctional TicTacToe.csproj.GenerateResource.cache
+C:\Projects\Disfunctional TicTacToe\Disfunctional TicTacToe\obj\Debug\net6.0-windows\Disfunctional TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Disfunctional TicTacToe\Disfunctional TicTacToe\obj\Debug\net6.0-windows\Disfunctional TicTacToe.AssemblyInfoInputs.cache
+C:\Projects\Disfunctional TicTacToe\Disfunctional TicTacToe\obj\Debug\net6.0-windows\Disfunctional TicTacToe.AssemblyInfo.cs
+C:\Projects\Disfunctional TicTacToe\Disfunctional TicTacToe\obj\Debug\net6.0-windows\Disfunctional TicTacToe.csproj.CoreCompileInputs.cache
+C:\Projects\Disfunctional TicTacToe\Disfunctional TicTacToe\obj\Debug\net6.0-windows\Disfunctional TicTacToe.dll
+C:\Projects\Disfunctional TicTacToe\Disfunctional TicTacToe\obj\Debug\net6.0-windows\refint\Disfunctional TicTacToe.dll
+C:\Projects\Disfunctional TicTacToe\Disfunctional TicTacToe\obj\Debug\net6.0-windows\Disfunctional TicTacToe.pdb
+C:\Projects\Disfunctional TicTacToe\Disfunctional TicTacToe\obj\Debug\net6.0-windows\Disfunctional TicTacToe.genruntimeconfig.cache
+C:\Projects\Disfunctional TicTacToe\Disfunctional TicTacToe\obj\Debug\net6.0-windows\ref\Disfunctional TicTacToe.dll
